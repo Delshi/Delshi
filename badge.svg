@@ -1,0 +1,20 @@
+<svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@1,400;1,600&amp;display=swap');
+    .text {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 26px;
+      letter-spacing: 4px;
+      word-spacing: 5px;
+      fill: #FF8006;
+      font-weight: 450;
+      font-style: italic;
+      font-variant: normal;
+      text-anchor: middle;
+    }
+  </style>
+  
+  <text x="300" y="50" class="text">Python Backend Developer &#92;</text>
+  <text x="300" y="90" class="text">ML-Engineer</text>
+
+</svg>
