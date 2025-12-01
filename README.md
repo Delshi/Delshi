@@ -30,8 +30,6 @@
 </pre>
 </details>
 
-![](https://komarev.com/ghpvc/?username=Delshi)
-
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=Delshi&theme=dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&stroke=FF9700)](https://git.io/streak-stats)-->
 
 <!--![](https://komarev.com/ghpvc/?username=Delshi&style=for-the-badge&color=orange)-->
