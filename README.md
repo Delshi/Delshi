@@ -4,7 +4,7 @@
 
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Delshi&theme=calm)-->
 
-<img src="badge.svg" alt="Python Backend Developer \ Software Architect \ ML-Engineer" width="1600" />
+<img src="badge.svg" alt="Python Backend Developer \ ML-Engineer" width="1600" />
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-00C7B7?style=flat-square&logo=fastapi&logoColor=white)
