@@ -6,6 +6,7 @@
 
 <img src="badge.svg" alt="Python Backend Developer \ ML-Engineer" width="1600" />
 
+![DDD](https://img.shields.io/badge/Architecture-DDD-FF8006?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-00C7B7?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-C92126?style=flat-square&logo=python&logoColor=white)
@@ -13,7 +14,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-DE4C36?style=flat-square&logo=rust&logoColor=white)
-![DDD](https://img.shields.io/badge/Architecture-DDD-FF8006?style=flat-square)
+
 <details>
 <summary>&#8203;</summary><pre>
  ,-.       _,---._ __  / \
